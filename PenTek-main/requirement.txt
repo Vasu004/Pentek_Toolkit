@@ -1,0 +1,8 @@
+argparse
+requests
+urllib
+pyfiglet
+socket
+pymongo
+os
+subprocess

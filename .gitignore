@@ -1,0 +1,21 @@
+# Ignore Python virtual environment
+pentek-main/venv/
+pentek-main/__pycache__/
+pentek-main/*.pyc
+pentek-main/*.pyo
+pentek-main/*.pyd
+pentek-main/.Python
+
+# Ignore frontend node_modules
+pentek-frontend/node_modules/
+pentek-frontend/.env
+
+# Ignore system junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VSCode personal settings (optional)
+.vscode/
