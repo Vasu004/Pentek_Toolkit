@@ -9,5 +9,5 @@ This project is designed to **automate key phases** of penetration testing like:
 
 ---
 
-## 🛠 Project Structure
+
 
